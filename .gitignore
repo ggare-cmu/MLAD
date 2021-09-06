@@ -1,0 +1,5 @@
+src/__pycache__/*
+src/models/__pycache__/*
+datasets/Multi-THUMOS/features/*
+models/*
+src/results/*
